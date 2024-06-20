@@ -1,0 +1,21 @@
+scons: Reading SConscript files ...
+/Applications/ArmGNUToolchain/13.2.Rel1/arm-none-eabi/bin
+scons: done reading SConscript files.
+scons: Cleaning targets ...
+Removed external/CMSIS_5/Device/ARM/ARMCM33/Source/GCC/startup_ARMCM33.o
+Removed external/FreeRTOS-Kernel/croutine.o
+Removed external/FreeRTOS-Kernel/event_groups.o
+Removed external/FreeRTOS-Kernel/list.o
+Removed external/FreeRTOS-Kernel/portable/GCC/ARM_CM33_NTZ/non_secure/mpu_wrappers_v2_asm.o
+Removed external/FreeRTOS-Kernel/portable/GCC/ARM_CM33_NTZ/non_secure/port.o
+Removed external/FreeRTOS-Kernel/portable/GCC/ARM_CM33_NTZ/non_secure/portasm.o
+Removed external/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+Removed external/FreeRTOS-Kernel/queue.o
+Removed external/FreeRTOS-Kernel/stream_buffer.o
+Removed external/FreeRTOS-Kernel/tasks.o
+Removed external/FreeRTOS-Kernel/timers.o
+Removed src/main.o
+Removed src/syscalls.o
+Removed src/sysmem.o
+Removed src/system_cm33_none.o
+scons: done cleaning targets.

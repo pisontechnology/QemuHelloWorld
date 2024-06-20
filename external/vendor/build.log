@@ -1,0 +1,3 @@
+
+scons: *** No SConstruct file found.
+File "/Users/jun/edge_engine/lib/python3.12/site-packages/SCons/Script/Main.py", line 985, in _main
